@@ -18,15 +18,15 @@ This run uses the file `input.FIRST`
 ```
 ❯ ./a.out input.FIRST
 There were 3 words read.
-The longest word is "cat"
+The longest word is "cat".
 The average word length is 3.0 letters.
 ```
 
-This run uses the file `input.HERBERT` (Attribution: Frank Herbert)  
+This run uses the file `input.HERBERT` (Attribution: Frank Herbert)
 ```
 ❯ ./a.out input.HERBERT
 There were 61 words read.
-The longest word is "little-death"
+The longest word is "little-death".
 The average word length is 3.9 letters.
 ```
 
